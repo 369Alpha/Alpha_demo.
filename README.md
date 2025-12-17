@@ -1,4 +1,4 @@
-# Alpha_demo.
+# Alpha_demo
 My First Project.
 <br>
 This is not gonna be my last task . 
